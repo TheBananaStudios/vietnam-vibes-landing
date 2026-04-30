@@ -35,7 +35,7 @@ export function Hero() {
               <WordsPullUp
                 text="VietnamBible"
                 showAsterisk
-                className="text-[26vw] sm:text-[24vw] md:text-[22vw] lg:text-[20vw] xl:text-[19vw] 2xl:text-[20vw] font-medium leading-[0.85] tracking-[-0.07em]"
+                className="text-[10.4vw] sm:text-[9.6vw] md:text-[8.8vw] lg:text-[8vw] xl:text-[7.6vw] 2xl:text-[8vw] font-medium leading-[0.85] tracking-[-0.07em]"
               />
             </div>
 
