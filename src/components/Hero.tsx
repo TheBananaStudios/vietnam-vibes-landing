@@ -51,8 +51,8 @@ export function Hero() {
                 VietnamBible is the quintessential travel guide with plans to develop into the
                 biggest food/travel brand in Vietnam and the information kiosk for all foreign
                 tourists visiting Vietnam. Our team has over 1 billion lifetime views and plan to
-                use a concurrent social media and editorial based strategies to the number 1
-                english speaking publication in this rapidly developing market.
+                use aconcurrent social media and editorial based strategy to become the number 1
+                English speaking publication in this rapidly developing market.
               </motion.p>
 
               <motion.div
